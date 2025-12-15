@@ -1,16 +1,4 @@
-# conversor_moeda
+Este projeto é um aplicativo simples desenvolvido em Flutter com o objetivo de aprendizado. Ele consiste em um conversor de moedas que permite ao usuário converter valores entre diferentes moedas de forma prática. O foco principal do projeto é explorar conceitos básicos do Flutter, como layout, gerenciamento de estado, entrada de dados e consumo de lógica de conversão, servindo como base para estudos e evolução em desenvolvimento mobile.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a simple application developed with Flutter for learning purposes. It is a currency converter that allows users to convert values between different currencies in a practical way. The main focus of the project is to explore basic Flutter concepts such as layout, state management, user input, and conversion logic, serving as a foundation for mobile development studies and future improvements.
